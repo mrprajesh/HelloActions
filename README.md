@@ -10,7 +10,7 @@
 4. mkdir -p .github/workflows && cd .github/workflows
 5. create `dev.yml` as we are creating a badge for `dev` branch. 
 ```
-name: dev Branch
+name: Dev Branch
 
 on:
   push:
