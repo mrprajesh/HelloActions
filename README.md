@@ -28,10 +28,11 @@ jobs:
     - name: make
       run: make
 ```
-5. Update Readme as 
+5. Update `Readme.md` with the below.
  ```
  [![Dev Branch](https://github.com/<username>/<repo>/actions/workflows/dev.yml/badge.svg)](https://github.com/<username>/<repo>/actions/workflows/dev.yml)
  ```
 6. git add & commit!
 7. git push origin dev 
-8. Replace `dev`, `<username>` and `<repo>` with approprite names.
+**IMPORTANT:** Replace `dev`, `<username>` and `<repo>` with approprite names.
+Should be able to see the badge on GitHub.
