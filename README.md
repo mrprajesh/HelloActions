@@ -8,7 +8,7 @@
 2. git clone repo
 3. Switch/checkout to `dev` branch
 4. mkdir -p .github/workflows && cd .github/workflows
-5. create `dev.yml`. I am creating a badge for `dev` branch. 
+5. create `dev.yml` as we are creating a badge for `dev` branch. 
 ```
 name: dev Branch
 
