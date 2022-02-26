@@ -4,6 +4,10 @@
 [![Main Branch](https://github.com/mrprajesh/HelloActions/actions/workflows/main.yml/badge.svg)](https://github.com/mrprajesh/HelloActions/actions/workflows/main.yml)
 
 ### Steps to create badge for dev branch
+
+**IMPORTANT:** Replace `dev`, `<username>` and `<repo>` with approprite names.
+Should be able to see the badge on GitHub.
+
 1. Repo create or use exiting one.
 2. git clone repo
 3. Switch/checkout to `dev` branch
@@ -34,5 +38,4 @@ jobs:
  ```
 6. git add & commit!
 7. git push origin dev 
-**IMPORTANT:** Replace `dev`, `<username>` and `<repo>` with approprite names.
-Should be able to see the badge on GitHub.
+
